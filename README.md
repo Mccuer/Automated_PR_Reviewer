@@ -1,4 +1,4 @@
-# 🤖 AutoPR ReviewBot
+# 🤖 ReviewBot
 
 **ReviewBot** is a GitHub App that automatically reviews the code quality of pull requests using AI. Whenever a new pull request is opened or updated, the app analyzes the diff and commit messages, then posts a concise, helpful comment reviewing the changes.
 

@@ -1,6 +1,6 @@
 # 🤖 AutoPR ReviewBot
 
-**AutoPR ReviewBot** is a GitHub App that automatically reviews the code quality of pull requests using AI. Whenever a new pull request is opened or updated, the app analyzes the diff and commit messages, then posts a concise, helpful comment reviewing the changes.
+**ReviewBot** is a GitHub App that automatically reviews the code quality of pull requests using AI. Whenever a new pull request is opened or updated, the app analyzes the diff and commit messages, then posts a concise, helpful comment reviewing the changes.
 
 Powered by [Ollama](https://ollama.com) and integrated via webhooks, this tool brings intelligent, automated feedback to your code review workflow.
 
